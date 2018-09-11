@@ -256,6 +256,24 @@ header {
 }
 
 
+/* MOBILE NAV */
+
+.mobile-nav-icon {
+		float: right;
+		margin-top: 30px;
+		cursor: pointer;
+		display: none;
+}
+
+.ion-md-menu, .ion-md-close {
+		font-size: 200%;
+		color: #fff;
+}
+
+.ion-md-close {
+		margin-right: 3px;
+}
+
 /* STICKY HEADER */
 
 .sticky {
